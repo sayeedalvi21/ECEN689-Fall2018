@@ -31,7 +31,7 @@
 * Devarsh Jhaveri, [devarshjhaveri](https://github.com/devarshjhaveri)
 * Kanchan Satpute, [KanchanSatpute](https://github.com/KanchanSatpute)
 * Kishan Shah, [kishan3111](https://github.com/kishan3111)
-
+* Sayeed Alvi, [sayeedalvi21](https://github.com/sayeedalvi21)
 ## Teaching Team
 
 * Jean-Francois Chamberland, [chmbrlnd](https://github.com/chmbrlnd)
